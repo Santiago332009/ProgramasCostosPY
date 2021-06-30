@@ -151,3 +151,11 @@ tools = pd.DataFrame([[key, tools[key]] for key in tools.keys()], columns=['Tipo
 tools=tools.assign(Qty=[Parejas,Parejas,Parejas*2,5*PaintHome,PaintHome])
 
 ## este coementario
+
+asdasd
+
+
+dsadsad
+
+asdasd
+dsadasd
